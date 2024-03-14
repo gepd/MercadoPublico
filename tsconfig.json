@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "declaration": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

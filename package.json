@@ -1,0 +1,34 @@
+{
+  "name": "mercadopublico",
+  "description": "Paquete para usar la API de Mercado Público",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Guillermo Parraguez",
+  "license": "MIT",
+  "keywords": [
+    "mercadopublico",
+    "licitaciones",
+    "ordendecompra",
+    "proveedores",
+    "chile",
+    "gobierno"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gepd/MercadoPublico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gepd/MercadoPublico/issues"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.11",
+    "release-it": "^17.1.1",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "prepublish": "tsc",
+    "release": "release-it"
+  },
+  "homepage": "https://github.com/gepd/MercadoPublico#readme"
+}
