@@ -1,0 +1,1 @@
+export { MercadoPublico } from "./MercadoPublico";
