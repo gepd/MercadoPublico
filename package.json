@@ -1,5 +1,5 @@
 {
-  "name": "mercadopublico",
+  "name": "apimercadopublico",
   "description": "Paquete para usar la API de Mercado Público",
   "version": "1.0.0",
   "main": "dist/index.js",
