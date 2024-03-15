@@ -1,4 +1,4 @@
-import { Listado, OC } from "./types";
+import { Listado, OC } from "../types";
 export declare class SingleDocument {
     private data;
     constructor(data: OC);

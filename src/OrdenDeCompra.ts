@@ -1,7 +1,7 @@
 import { Listar } from "./Listar";
 import { MultipleDocument } from "./MultipleDocument";
 import { SingleDocument } from "./SingleDocument";
-import { EstadoOrdenDeCompra, Formato } from "./types";
+import { EstadoOrdenDeCompra, Formato } from "../types";
 
 export class OrdenDeCompra {
   private request: Listar;

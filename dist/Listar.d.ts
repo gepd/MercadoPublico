@@ -1,4 +1,4 @@
-import { EstadoLicitacion, EstadoOrdenDeCompra, Formato, Tipo } from "./types";
+import { EstadoLicitacion, EstadoOrdenDeCompra, Formato, Tipo } from "../types";
 export declare class Listar {
     private ticket;
     private tipo;

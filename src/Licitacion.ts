@@ -1,7 +1,7 @@
 import { Listar } from "./Listar";
 import { MultipleDocument } from "./MultipleDocument";
 import { SingleDocument } from "./SingleDocument";
-import { EstadoLicitacion, Formato } from "./types";
+import { EstadoLicitacion, Formato } from "../types";
 
 export class Licitacion {
   private request: Listar;

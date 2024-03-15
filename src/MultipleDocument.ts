@@ -1,4 +1,4 @@
-import { ListadoSimple } from "./types";
+import { ListadoSimple } from "../types";
 
 export class MultipleDocument {
   constructor(private data) {}

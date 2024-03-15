@@ -1,4 +1,4 @@
-import { EstadoLicitacion, EstadoOrdenDeCompra, Formato, Tipo } from "./types";
+import { EstadoLicitacion, EstadoOrdenDeCompra, Formato, Tipo } from "../types";
 
 export class Listar {
   static baseUrl = "https://api.mercadopublico.cl";

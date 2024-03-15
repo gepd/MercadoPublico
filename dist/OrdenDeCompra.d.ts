@@ -1,6 +1,6 @@
 import { MultipleDocument } from "./MultipleDocument";
 import { SingleDocument } from "./SingleDocument";
-import { EstadoOrdenDeCompra, Formato } from "./types";
+import { EstadoOrdenDeCompra, Formato } from "../types";
 export declare class OrdenDeCompra {
     private request;
     constructor(ticket: string, formato?: Formato);

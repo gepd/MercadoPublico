@@ -1,7 +1,7 @@
 import { Licitacion } from "./Licitacion";
 import { Listar } from "./Listar";
 import { OrdenDeCompra } from "./OrdenDeCompra";
-import { Formato, ResultadoCompradorProveedor } from "./types";
+import { Formato, ResultadoCompradorProveedor } from "../types";
 
 export class MercadoPublico {
   licitacion: Licitacion;
