@@ -1,7 +1,7 @@
 {
   "name": "apimercadopublico",
   "description": "Paquete para usar la API de Mercado Público",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Guillermo Parraguez",
